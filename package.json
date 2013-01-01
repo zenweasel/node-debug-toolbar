@@ -1,0 +1,19 @@
+{
+  "name": "node-debug-toolbar",
+  "version": "0.0.1",
+  "description": "A port of the django-debug-toolbar by Rob Hudson",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:zenweasel/node-debug-toolbar.git"
+  },
+  "keywords": [
+    "tools",
+    "development"
+  ],
+  "author": "Brent Hoover",
+  "license": "MIT"
+}
